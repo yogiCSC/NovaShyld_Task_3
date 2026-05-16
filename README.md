@@ -72,7 +72,7 @@ The VSFTPD 2.3.4 vulnerable service was successfully exploited using the Metaspl
 
 ### Ping Result
 
-![Ping Result](./screenshots/ping_result_task-3.png)
+![Ping Result](./screenshots/ping_result-3.png)
 
 ### Metasploit Startup
 
