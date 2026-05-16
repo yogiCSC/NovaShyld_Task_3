@@ -66,6 +66,14 @@ The VSFTPD 2.3.4 vulnerable service was successfully exploited using the Metaspl
 
 ## Screenshots
 
+### Lab Setup
+
+![Lab Setup](./screenshots/lab_setup_task3.png)
+
+### Ping Result
+
+![Ping Result](./screenshots/ping_result_task3.png)
+
 ### Metasploit Startup
 
 ![Metasploit Startup](./screenshots/msfconsole_start.png)
