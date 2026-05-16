@@ -95,3 +95,14 @@ The VSFTPD 2.3.4 vulnerable service was successfully exploited using the Metaspl
 ## Conclusion
 
 This task provided practical knowledge of vulnerability exploitation using Metasploit Framework. It helped in understanding exploit modules, payload execution, and shell access techniques in penetration testing.
+
+## Learning Outcomes
+
+- Learned basic exploitation using Metasploit
+- Understood exploit modules and payload execution
+- Gained practical experience in vulnerability exploitation
+- Verified shell access on vulnerable systems
+
+## Report
+
+[Download Report](./Task-3%20Metasploit%20Report.pdf)
